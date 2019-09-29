@@ -1,0 +1,54 @@
+#rectangle1{
+	width:400px;
+	height:50px;
+	background:#2ECC71;
+	float:left;
+}
+#rectangle2{
+  width:160px;
+  height:50px;
+  background:#2980B9;
+	float:left;
+}
+#rectangle3{
+	width:150px;
+	height:100px;
+	background:#E74C3C;
+	float:left;
+}
+#rectangle4{
+	width:260px;
+	height:50px;
+	background:DarkOrange;
+	float:left;
+}
+#rectangle5{
+	width:260px;
+	height:50px;
+	background:grey;
+	float:left;
+}
+#rectangle6{
+	width:150px;
+	height:50px;
+	background:orange;
+	float:left;
+}
+#rectangle7{
+	width:150px;
+	height:50px;
+	background:Teal;
+	float:left;
+}
+#rectangle8{
+	width:110px;
+	height:50px;
+	background:#D35400;
+	float:left;
+}
+#rectangle9{
+	width:560px;
+	height:100px;
+	background:#2C3E50;
+	float:left;
+}
